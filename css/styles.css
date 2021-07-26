@@ -1,0 +1,9 @@
+body{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#game-id{
+    border: dotted 1px black;
+}
